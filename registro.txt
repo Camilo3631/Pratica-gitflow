@@ -1,0 +1,6 @@
+Nombre:
+Contraseña:
+Correo:
+
+Botón: Enviar formulario de registro
+
